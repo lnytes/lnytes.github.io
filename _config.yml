@@ -11,7 +11,7 @@ email: lnytes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Senior at the University of Minnesota - Twin Cities
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://loganrithm.com" # the base hostname & protocol for your site
 twitter_username: N/A
 github_username:  lnytes
 
