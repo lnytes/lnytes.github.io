@@ -1,8 +1,0 @@
----
-layout: post
-title:  "nada"
-date:   2017-06-01 15:31:38 +0000
-categories: posts
----
-
-Hello world.

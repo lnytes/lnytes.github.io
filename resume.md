@@ -4,4 +4,5 @@ title: Resume
 permalink: /Resume/
 ---
 
-This is my resume.
+![My helpful screenshot]({{ site.url }}/assets/OfficialResume-1.jpg)
+![My helpful screenshot]({{ site.url }}/assets/OfficialResume-2.jpg)
